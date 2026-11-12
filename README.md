@@ -32,7 +32,7 @@ Files: the `.pbix` reports are in the `pbix` folder (open in Power BI Desktop, W
 - The Standing Desk was the top seller (7.0K) but earned only a 32.4% margin, compared with 48.5% on the Wireless Mouse, so best-selling is not the same as most profitable
 - Discounts totalled 1.2K (about 4.7% of gross sales), mostly on Technology and Home
 
-![Retail Overview](images/overview.png)
+![Retail Overview](images/Overview.png)
 
 ---
 
