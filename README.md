@@ -36,7 +36,7 @@ Files: the `.pbix` reports are in the `pbix` folder (open in Power BI Desktop, W
 
 ---
 
-## 2. Student Performance Analytics
+## 2. Student Performance Analytics (My First DashBoard)
 
 **Question it answers:** How do attendance, course type and lecturer relate to student results and pass rates?
 
